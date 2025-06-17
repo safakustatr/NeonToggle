@@ -10,7 +10,6 @@
 - Pressing a switch toggles one or more lights (on/off).
 - When all lights are **ON**, you win!
 
-![screenshot](screenshots/example_win.png) <!-- You can replace with your own path -->
 
 ---
 
